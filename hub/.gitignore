@@ -1,6 +1,7 @@
 server/secrets.js
 node_modules
-config.json
 npm-debug.log
 *.azure.json
 *.aws.json
+.DS_Store
+/*.env
